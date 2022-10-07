@@ -1,0 +1,6 @@
+﻿  rtt.cpp
+C:\Users\Anel\source\repos\rtt\rtt\R-Tree.hpp(257,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anel\source\repos\rtt\rtt\R-Tree.hpp(240): message : while compiling class template member function 'void RTree<double,2>::SplitNode(std::vector<Entry<double,2>,std::allocator<Entry<double,2>>> *&,std::vector<Entry<double,2>,std::allocator<Entry<double,2>>> *&,std::vector<Entry<double,2>,std::allocator<Entry<double,2>>> *&)'
+C:\Users\Anel\source\repos\rtt\rtt\R-Tree.hpp(416): message : see reference to function template instantiation 'void RTree<double,2>::SplitNode(std::vector<Entry<double,2>,std::allocator<Entry<double,2>>> *&,std::vector<Entry<double,2>,std::allocator<Entry<double,2>>> *&,std::vector<Entry<double,2>,std::allocator<Entry<double,2>>> *&)' being compiled
+C:\Users\Anel\source\repos\rtt\rtt\rtt.cpp(79): message : see reference to class template instantiation 'RTree<double,2>' being compiled
+  rtt.vcxproj -> C:\Users\Anel\source\repos\rtt\x64\Debug\rtt.exe
