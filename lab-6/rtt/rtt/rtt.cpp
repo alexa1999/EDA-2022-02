@@ -11,7 +11,7 @@ int main() {
 
 
     if (TestMode) {
-        cout << "SPlitTest:\n";
+        
         std::vector<HyperRect<DIMENSION>> myRectSet;
         std::vector<Entry<double, DIMENSION>> newroot;
 
